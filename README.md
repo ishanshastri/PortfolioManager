@@ -8,3 +8,5 @@ Features:
 - Perform basic analytics
 
 Uses Yahoo Finances for real-time market updates and information
+
+**Documentation done using Sandcastle (.NET); see Documentation folder to access it
