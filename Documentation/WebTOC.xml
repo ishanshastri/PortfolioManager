@@ -1,0 +1,426 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="5b80004d-400f-4533-9f66-dd17ee425f11" Title="StockLab" Url="html/d7acbb59-6995-4d92-9cf6-3ad08f7df5cc.htm">
+    <HelpTOCNode Id="8842b16e-cebf-4f04-b7b4-328e68bff072" Title="Account Class" Url="html/ae1411b5-3c49-25cf-cf5c-95d1b433a7ed.htm">
+      <HelpTOCNode Title="Account Constructor " Url="html/a8dd5b76-6a2d-6b59-2ae2-05079e040429.htm" />
+      <HelpTOCNode Id="5178c04a-f73a-4e36-85ab-9061d95cb70e" Title="Account Properties" Url="html/8482f5e5-3790-e02d-462f-d7f828d88858.htm">
+        <HelpTOCNode Title="HeldPositions Property " Url="html/2730b6d9-7d29-4101-1a5f-00d9506cb1b8.htm" />
+        <HelpTOCNode Title="Identifier Property " Url="html/e31f3ea6-2b7b-254a-79e2-0c85a5b2a0c4.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/1589a4d3-957c-acf0-d577-c4debc353320.htm" />
+        <HelpTOCNode Title="PositionList Property " Url="html/f82d66ba-7d31-fa7b-bc5f-a5534864b832.htm" />
+        <HelpTOCNode Title="SoldPositions Property " Url="html/d9396ffe-52b5-9197-7e40-6862ea6c4dc3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b600285f-b9c0-4365-bf9f-88fafb27d7c9" Title="Account Methods" Url="html/b210665b-b891-d409-d79a-61400bb3f4fd.htm">
+        <HelpTOCNode Title="AddPosition Method " Url="html/ae756ed0-74c5-2e5b-0f2e-adc05eacce8c.htm" />
+        <HelpTOCNode Title="GetAccountInfo Method " Url="html/c7372228-b686-e505-5322-b62748a9a644.htm" />
+        <HelpTOCNode Title="GetPositions Method " Url="html/2703dd50-db79-4e08-5ed5-7e34c05a5d83.htm" />
+        <HelpTOCNode Title="IsAccount Method " Url="html/522c30b9-8f5f-b49d-c1c5-990d309d3bb9.htm" />
+        <HelpTOCNode Title="SetName Method " Url="html/833ec9a2-514d-9be2-5e20-eecb23d2f7a6.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/99409d8f-a8d7-1c7c-5d91-d57a58421617.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a5ea6560-54cf-425a-9d64-fae85129cc0f" Title="AccountInfo Class" Url="html/1f340289-93ae-5863-748f-9bf28713915e.htm">
+      <HelpTOCNode Title="AccountInfo Constructor " Url="html/3637b81d-ce83-49e9-402e-a07e0dee879b.htm" />
+      <HelpTOCNode Id="7209af79-e27f-43a5-a2b3-4c741a837151" Title="AccountInfo Properties" Url="html/a1f643cd-cf9b-d3f4-8f11-6ba71bd83b36.htm">
+        <HelpTOCNode Title="Identifier Property " Url="html/b0280330-cf81-a694-cc85-7ed6d6db0c01.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/13d97c37-8930-98af-6e5f-c9cc36e6b825.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bc677375-c1a9-47af-bd9f-273af056c853" Title="AccountInfo Methods" Url="html/130ea350-2de9-d18b-57a2-c945ebf36640.htm">
+        <HelpTOCNode Title="IsAccount Method " Url="html/038a79cf-4eae-18e7-858e-6fc530465892.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/6f76606b-46e1-cd97-8a76-b0e81613b9e2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3b918bfb-dc0f-4e14-a6fc-87232f899494" Title="Database Class" Url="html/7a33c0a5-96fe-ca1a-a35a-e22a2b84fc87.htm">
+      <HelpTOCNode Id="b936b0cd-cfa1-4741-a85a-3427138340fd" Title="Database Constructor " Url="html/08bc5259-d6bd-2917-6f7e-ecc43feaec83.htm">
+        <HelpTOCNode Title="Database Constructor " Url="html/66a1efa6-5ca0-0394-e30b-16848a7db02e.htm" />
+        <HelpTOCNode Title="Database Constructor (String)" Url="html/aad41cd3-7820-2c00-83ac-55296ce3dfd5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b58e960f-a203-4085-9cee-c169558e9081" Title="Database Properties" Url="html/b203dd4e-ed0c-99fc-547e-34f2321bdbbf.htm">
+        <HelpTOCNode Title="symbolToPriceMapFilePath Property " Url="html/286bc7a7-78c7-4e48-cd3c-b0163fcb9cc4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="dd7d1408-88a2-4d59-a9dc-bd0e615fa833" Title="Database Methods" Url="html/b939eca5-656f-c793-db31-b9332b08cc1e.htm">
+        <HelpTOCNode Title="AddAccount Method " Url="html/f5cc3432-bae0-be85-afb5-95a3df827182.htm" />
+        <HelpTOCNode Id="d73d5c70-0e83-4a0f-82a1-5398a4b04e67" Title="AddPosition Method " Url="html/463ca2ac-6e79-3e58-aa19-ac89cbe55e29.htm">
+          <HelpTOCNode Title="AddPosition Method (PositionBuyParameters)" Url="html/ebd62e74-bacc-66f8-d0b4-9feb99b17b00.htm" />
+          <HelpTOCNode Title="AddPosition Method (AccountInfo, PositionInfo)" Url="html/f8d365ac-7bee-693d-08aa-3108d73437dd.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Create Method " Url="html/f2572bf5-f76d-aae2-6b35-fcf9f2f98414.htm" />
+        <HelpTOCNode Title="CreateRealAccount Method " Url="html/a7368e38-e161-d555-83ff-c93b6aac5b95.htm" />
+        <HelpTOCNode Title="DeletePosition Method " Url="html/8a19d20f-840b-77f3-e921-53e8414c3291.htm" />
+        <HelpTOCNode Title="GetAccountFromFile Method " Url="html/50c73d3b-867c-b642-023d-0d978a9082e6.htm" />
+        <HelpTOCNode Title="GetAccountInfos Method " Url="html/9797a1ac-ea44-b7c6-31a2-ceafab185940.htm" />
+        <HelpTOCNode Title="GetHeldPositions Method " Url="html/4ca70a1b-ce68-b85a-3e82-114bb7ae012f.htm" />
+        <HelpTOCNode Title="GetLastUpdatedPrice Method " Url="html/d8852efd-b0d5-282c-83b6-75328546c6f9.htm" />
+        <HelpTOCNode Title="GetPosition Method " Url="html/e19ef5a0-8090-76ed-ed32-ac0afc29fdc4.htm" />
+        <HelpTOCNode Title="GetPositions Method " Url="html/62cfe4d3-6b2f-6e9e-bc76-7b5dc41acf9d.htm" />
+        <HelpTOCNode Title="GetSoldPositions Method " Url="html/c47b9ba6-bf71-4f7c-13dd-59d845a663b0.htm" />
+        <HelpTOCNode Title="IsExistingAccountName Method " Url="html/306fb735-ec3d-2dd3-d667-63c3cdcfd505.htm" />
+        <HelpTOCNode Title="IsValidAccountName Method " Url="html/300bc9ae-79d5-5c26-a3b8-658ea0e30476.htm" />
+        <HelpTOCNode Title="merge Method " Url="html/c606ebce-53d6-c814-bdf0-c0860a92c0e7.htm" />
+        <HelpTOCNode Title="mergeAccountInfo Method " Url="html/25f9e240-7ba2-c680-b6d6-6eef173210d9.htm" />
+        <HelpTOCNode Title="mergeSortAccountInfos Method " Url="html/a30e0abd-557f-ea0e-489f-40529c789a24.htm" />
+        <HelpTOCNode Title="mergeSortAccounts Method " Url="html/b2f40c3f-9d5a-8ad1-f203-b6f0ff13ef4e.htm" />
+        <HelpTOCNode Title="OLDRetrieveRealAccount Method " Url="html/b243c3d7-464e-d95c-6136-02a52273fffd.htm" />
+        <HelpTOCNode Title="Open Method " Url="html/1471323c-74b9-dc8f-5576-1c742a510dd9.htm" />
+        <HelpTOCNode Title="Read Method " Url="html/14ef5272-f843-e3f8-becc-a9455120096f.htm" />
+        <HelpTOCNode Title="RefreshStockPrices Method " Url="html/8711c3d3-6099-5782-e006-ea61eeb5003e.htm" />
+        <HelpTOCNode Title="retrieveAccounts Method " Url="html/8a16fa0d-0746-df08-7ace-3500ab3032bf.htm" />
+        <HelpTOCNode Id="f38aa37d-86e5-4e2b-9f7b-56916fd5aa37" Title="retrieveRealAccount Method " Url="html/6691dde2-acce-e995-1ea8-a3533e95bde6.htm">
+          <HelpTOCNode Title="retrieveRealAccount Method (AccountInfo)" Url="html/594a35fb-0806-c98d-bf39-fa1ab078db69.htm" />
+          <HelpTOCNode Title="retrieveRealAccount Method (String)" Url="html/ce027855-b5d9-d542-f8ac-9d5c1223d5a6.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ccd882a4-d2a7-4091-ac84-c462f19510c3" Title="retrieveRealPosition Method " Url="html/00d57d6e-2bc2-4062-b581-5653b0e78b27.htm">
+          <HelpTOCNode Title="retrieveRealPosition Method (Guid, AccountInfo)" Url="html/2e3ac857-3a0c-1803-bf87-5db5bd8f6d7a.htm" />
+          <HelpTOCNode Title="retrieveRealPosition Method (PositionInfo, AccountInfo)" Url="html/de0d8e33-f831-aaf6-959f-4e558fa08d6c.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="retrieveSymbolToPriceMap Method " Url="html/44030b69-35ae-21d7-49a6-64d58603e2dc.htm" />
+        <HelpTOCNode Title="Save Method " Url="html/11384c7f-e727-401c-4870-a45b4b507ca1.htm" />
+        <HelpTOCNode Id="4a19b705-af1b-4f59-9412-421c6dcab065" Title="SellPosition Method " Url="html/534bce84-c242-68d6-0cbe-abc53e6001ad.htm">
+          <HelpTOCNode Title="SellPosition Method (AccountInfo, PositionInfo, Int32, Double)" Url="html/6cbfc252-9594-1802-1906-20229006f481.htm" />
+          <HelpTOCNode Title="SellPosition Method (AccountInfo, Guid, Int32, Double)" Url="html/6e9b567e-158f-c0df-9c37-bd6395cf8b36.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="SortAccountInfos Method " Url="html/080cd461-f654-083b-c08a-bdecf1bacbc9.htm" />
+        <HelpTOCNode Title="updateAccountFile Method " Url="html/30b92520-3460-484c-e501-122093eec4df.htm" />
+        <HelpTOCNode Title="updatePrices Method " Url="html/2643a630-d84d-33ed-d31b-55e354f72ac5.htm" />
+        <HelpTOCNode Title="Write Method " Url="html/cc6959b0-9f4f-ad1f-dede-1aca65aea529.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1ffed4fb-ee94-4b2b-a70d-58f5d6bb28ff" Title="Database Fields" Url="html/da4d7b91-279a-df78-2e32-1bed06efef26.htm">
+        <HelpTOCNode Title="ACCOUNT_FILE_EXTENSION Field" Url="html/3cd7c952-358d-767d-b901-76dafb2ff034.htm" />
+        <HelpTOCNode Title="accounts Field" Url="html/e9a8eb22-7146-c5c6-9f84-61f6ed529e54.htm" />
+        <HelpTOCNode Title="directory Field" Url="html/40984335-4574-4dc5-f26a-f42f84452900.htm" />
+        <HelpTOCNode Title="SEP Field" Url="html/9be948f0-2c33-c77b-922c-f9b2a17d3d15.htm" />
+        <HelpTOCNode Title="symbolToPriceMap Field" Url="html/6af5330e-ea80-890f-4057-53441050cbd8.htm" />
+        <HelpTOCNode Title="symbToPriceFileName Field" Url="html/cff763e7-b796-fb2e-4860-f4525c45c4ef.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="dfc81bab-7711-4466-b1ed-aefca7af2843" Title="IDatabase Interface" Url="html/6a87245d-c6e3-fcc4-07f8-c3b2cd314c42.htm">
+      <HelpTOCNode Id="533f65a5-20dc-403a-94e9-30836fcaa824" Title="IDatabase Methods" Url="html/198912b2-e08c-2968-9573-3791bbc4ef98.htm">
+        <HelpTOCNode Title="AddAccount Method " Url="html/8e4d8e58-b364-f9f0-e7d5-1eddb5288108.htm" />
+        <HelpTOCNode Id="9a6baeb3-77f0-4ca1-97bc-098bc8c0588f" Title="AddPosition Method " Url="html/e8faec66-1117-a48b-5df9-868f318336fd.htm">
+          <HelpTOCNode Title="AddPosition Method (PositionBuyParameters)" Url="html/8a7c7db8-88b9-946c-670a-a3889494ab4f.htm" />
+          <HelpTOCNode Title="AddPosition Method (AccountInfo, PositionInfo)" Url="html/26798da7-a83a-c8a2-75f4-bfd49d204d97.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="DeletePosition Method " Url="html/ed538988-d5df-5a9f-0d04-f04127c300f1.htm" />
+        <HelpTOCNode Title="GetAccountInfos Method " Url="html/da57f54b-4adf-b8e9-f72c-91fb9b4131f5.htm" />
+        <HelpTOCNode Title="GetHeldPositions Method " Url="html/583d1042-b405-3dcf-733d-05a60249b0f9.htm" />
+        <HelpTOCNode Title="GetPosition Method " Url="html/3101ac00-2658-f06c-4d5f-b98acd41d8aa.htm" />
+        <HelpTOCNode Title="GetPositions Method " Url="html/9ce20d2e-8bcc-c31f-213b-56b4a395d412.htm" />
+        <HelpTOCNode Title="GetSoldPositions Method " Url="html/83f9c502-24c9-4a8e-9988-027ffa4ff338.htm" />
+        <HelpTOCNode Title="RefreshStockPrices Method " Url="html/5f7f6ee1-2fac-24c0-d970-00c0793cbcd7.htm" />
+        <HelpTOCNode Title="Save Method " Url="html/bfec6c4a-fba5-2feb-0940-7db411405051.htm" />
+        <HelpTOCNode Id="8226b3a7-ef94-4955-8c2b-a12504b750cc" Title="SellPosition Method " Url="html/9fa0314a-23b6-3940-8930-ea73d3740b81.htm">
+          <HelpTOCNode Title="SellPosition Method (AccountInfo, PositionInfo, Int32, Double)" Url="html/dbe5a343-f88d-9feb-4e8f-85015f890960.htm" />
+          <HelpTOCNode Title="SellPosition Method (AccountInfo, Guid, Int32, Double)" Url="html/0c61fb8e-6e10-c198-4087-569f43e37fa7.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="SortAccountInfos Method " Url="html/f754af3f-90c8-4a0f-ab25-2273e55ac484.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a3617d03-a54d-4f11-8910-582022e8cbad" Title="NewPositionPurchaseForm Class" Url="html/86b22418-661b-3dfd-6051-042afce17f69.htm">
+      <HelpTOCNode Id="e16c51af-ab8a-46c9-914a-dee5a84bd0da" Title="NewPositionPurchaseForm Constructor " Url="html/2ffeb598-c3d2-8d03-cabd-563c48c04f32.htm">
+        <HelpTOCNode Title="NewPositionPurchaseForm Constructor " Url="html/4bb46ab4-201c-343f-b551-8615d98a1a0a.htm" />
+        <HelpTOCNode Title="NewPositionPurchaseForm Constructor (String)" Url="html/4c466ec2-d25d-5b1e-c098-d83c6c9a1c50.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="52c1fc41-dfa5-4383-b12a-75f5c0cc1754" Title="NewPositionPurchaseForm Properties" Url="html/8efa3c22-9d62-aab5-b8a1-07b6eab66eeb.htm">
+        <HelpTOCNode Title="BuyPrice Property " Url="html/4b18612c-5334-14aa-01d8-f55cb4b5510a.htm" />
+        <HelpTOCNode Title="NumberToPurchase Property " Url="html/4f8da3c0-4f05-5d18-c4e5-b3fadd2ad2ad.htm" />
+        <HelpTOCNode Title="PositionBuyParams Property " Url="html/ab5d2df8-e556-4e52-4256-26a9942019e4.htm" />
+        <HelpTOCNode Title="Symbol Property " Url="html/dab6a6d7-fa12-383e-4f32-885f1a2ba643.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2708c573-9e22-4c0d-ac08-88e8c589fcf8" Title="NewPositionPurchaseForm Methods" Url="html/5185ff36-3c7f-1962-68f6-633f1cf0fe24.htm">
+        <HelpTOCNode Title="addPosition_label_Click Method " Url="html/4bf52782-ae3b-2c93-7821-d774211cbe9a.htm" />
+        <HelpTOCNode Title="buy_button_Click Method " Url="html/69ff4640-a730-d5d9-344e-4167b3e8470e.htm" />
+        <HelpTOCNode Title="cancel_button_Click Method " Url="html/6aed8775-d2d0-479f-8fe0-2f0daa0c6894.htm" />
+        <HelpTOCNode Title="details_groupBox_Enter Method " Url="html/2e051103-f7f6-f6cc-21a4-66e0b873d510.htm" />
+        <HelpTOCNode Id="11b72eab-8fec-4699-bb55-97391fc26a5a" Title="Dispose Method " Url="html/a9ff8b9c-770d-fbff-52bd-bd82199fd42b.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/ca6de07d-a69e-9283-9cb7-708392df2b46.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="getConfirmation Method " Url="html/6266d7b0-17b0-5fa2-c9f5-c25c2a956fc8.htm" />
+        <HelpTOCNode Title="getCurrentPrice_button_Click_1 Method " Url="html/04799034-fc04-e26a-6f7c-ddf8edf1c9a5.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/543dc491-bd2a-fa49-86af-15747ea347f6.htm" />
+        <HelpTOCNode Title="NewPositionPurchaseForm_Load Method " Url="html/3ba3b3ec-1d5e-cc88-4211-6e84b4094863.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="NewPositionPurchaseForm Events" Url="html/dafc132f-9e45-44f2-4be4-6051e8ed89ae.htm" />
+      <HelpTOCNode Id="44a02161-14e3-4f5e-b1d3-bd6f4789058e" Title="NewPositionPurchaseForm Fields" Url="html/1dffce79-8315-167f-4b1e-de262c7c878f.htm">
+        <HelpTOCNode Title="accountName Field" Url="html/79fd3804-ca60-b56a-95f8-20c259ce64cd.htm" />
+        <HelpTOCNode Title="addPosition_label Field" Url="html/df6a2ac0-f46e-f89b-b2ec-6855d5fa8f41.htm" />
+        <HelpTOCNode Title="buy_button Field" Url="html/558b4189-4be7-c83c-f685-90bed9667879.htm" />
+        <HelpTOCNode Title="buyPrice_label Field" Url="html/f2e601ab-ae73-27f6-8c0e-694d550904ab.htm" />
+        <HelpTOCNode Title="buyPrice_textBox Field" Url="html/6acd226d-7a51-633c-2226-4b8e6fabd3e4.htm" />
+        <HelpTOCNode Title="cancel_button Field" Url="html/adc6c63c-86b8-1694-68b9-8c5a1b0cd50c.htm" />
+        <HelpTOCNode Title="components Field" Url="html/6c19f983-99b8-218e-a4fa-f93e0c79ab7c.htm" />
+        <HelpTOCNode Title="details_groupBox Field" Url="html/eb535e15-8b42-5038-bf65-24c325a77987.htm" />
+        <HelpTOCNode Title="getCurrentPrice_button Field" Url="html/452657aa-6747-c152-35b7-35963d95babc.htm" />
+        <HelpTOCNode Title="numberToBuy_label Field" Url="html/d1b43485-2ad9-27c5-7887-cfbbe81c9ddd.htm" />
+        <HelpTOCNode Title="numToBuy_textBox Field" Url="html/94139bad-92ba-95f4-d70e-1d170a3c40f6.htm" />
+        <HelpTOCNode Title="StockInformation Field" Url="html/c63010f3-493d-b184-e96c-523daa75b048.htm" />
+        <HelpTOCNode Title="symbol_label Field" Url="html/ebc39dda-136e-6871-c4fa-a1b3b5c251e0.htm" />
+        <HelpTOCNode Title="symbol_textBox Field" Url="html/b4589e2b-5195-105a-6919-1215706b08d4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b8673323-ced6-4fa0-b546-49b57914002e" Title="Node(T) Class" Url="html/4457ad4b-ab41-30f2-3a82-48467dbecbc9.htm">
+      <HelpTOCNode Title="Node(T) Constructor " Url="html/13b02a90-5d6d-27f5-1324-3c78161cec69.htm" />
+      <HelpTOCNode Id="2fae13bd-db60-46c7-a1be-f575713b3b11" Title="Node(T) Properties" Url="html/98fd91ea-1d1f-42a5-34e1-9b5599f5ea1a.htm">
+        <HelpTOCNode Title="Next Property " Url="html/2d434844-ced7-0a6f-248a-51b2adf47d1b.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/efd5a17c-df1d-c5e0-821b-6e8a69e43931.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Node(T) Methods" Url="html/9cd285e9-9f76-467c-e434-c0fc31e7f6d0.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="8782b4f8-3c88-4faa-a647-b570d18283c3" Title="PortfolioSetupForm Class" Url="html/2bc384e9-47ab-bb57-0021-521bd3bc4a2e.htm">
+      <HelpTOCNode Title="PortfolioSetupForm Constructor " Url="html/7098c6a4-3f22-35f5-386f-8e153f7c37c1.htm" />
+      <HelpTOCNode Id="8b017764-b722-415b-b00c-9c1501af0f50" Title="PortfolioSetupForm Properties" Url="html/7ecffede-e78b-d365-86a1-fd6891ffba86.htm">
+        <HelpTOCNode Title="portfolioName Property " Url="html/d30148a9-c2bb-18f5-da50-ac1ebe1da8f6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1f1a6762-75f5-4496-b850-1ac2a0e30676" Title="PortfolioSetupForm Methods" Url="html/0f3a2bb0-504d-9dcf-95af-b1190aada0e8.htm">
+        <HelpTOCNode Title="cancel_button_Click Method " Url="html/ec40ff7f-5d37-a1f5-0179-d87b80b2a936.htm" />
+        <HelpTOCNode Title="create_button_Click Method " Url="html/82257d48-fc38-d57a-81a3-d1ad8defbf94.htm" />
+        <HelpTOCNode Id="30c4f975-47fe-4835-a1f4-3f848d517126" Title="Dispose Method " Url="html/ab38f471-0338-b01d-1764-89dd55bb3e84.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/5b2e5975-a865-7a28-5ad0-df2bce0679a1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetAccountInfo Method " Url="html/dc6f440d-1f2b-63d0-affb-7e7293d750ef.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/1b45358f-e4e7-a72b-4be4-05318c84e78f.htm" />
+        <HelpTOCNode Title="isValidPortfolioName Method " Url="html/0e0f38a8-ac5a-67f8-f9e1-cb0dd0a32fe8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="PortfolioSetupForm Events" Url="html/8fbd0782-ecb0-359d-485c-040fcf1187e0.htm" />
+      <HelpTOCNode Id="1fceaf81-8306-448b-b4f0-4df945bea7b9" Title="PortfolioSetupForm Fields" Url="html/3fd32a1c-bd19-5845-cad1-d8a31a102de3.htm">
+        <HelpTOCNode Title="cancel_button Field" Url="html/c9007462-03b9-567f-f76f-7740ba8ec2ae.htm" />
+        <HelpTOCNode Title="components Field" Url="html/8c7ead36-49c0-133c-5c54-812838fb093a.htm" />
+        <HelpTOCNode Title="create_button Field" Url="html/3316ac94-2c21-6792-aa0b-ae5595973e04.htm" />
+        <HelpTOCNode Title="name_label Field" Url="html/7eb05b51-0e76-e54c-e574-fdaa78f574e2.htm" />
+        <HelpTOCNode Title="PortfolioName_textBox Field" Url="html/21782896-812e-d622-b9c1-32f2efc0c47f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="19b9ce37-b531-477b-be01-8cbaf6124a5c" Title="PortfolioView Class" Url="html/e20ba437-d97a-78bb-e534-c8e8bb7b60e9.htm">
+      <HelpTOCNode Title="PortfolioView Constructor " Url="html/31ca76b3-23a0-30a6-ecea-9f086327c379.htm" />
+      <HelpTOCNode Title="PortfolioView Properties" Url="html/c557850d-747c-70f4-fb87-8de510403097.htm" />
+      <HelpTOCNode Id="e686c1f4-ce65-44da-be96-ed18be8c1dad" Title="PortfolioView Methods" Url="html/a65c09b7-bb47-3bda-624f-2429eb60e8a5.htm">
+        <HelpTOCNode Title="addAccountToListView Method " Url="html/ff5d35c4-3b4c-e220-8a1f-283d48e7416a.htm" />
+        <HelpTOCNode Title="deletePosition_toolStripMenuItem_Click Method " Url="html/016d6685-2346-6e76-6c54-797ec16369f6.htm" />
+        <HelpTOCNode Id="fdddd6c6-895f-4edf-8f02-a1e4ff4657fc" Title="Dispose Method " Url="html/e6658f13-02f8-c563-6ee6-f132c5fa16eb.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/48cd91e1-2a6d-4c4d-d8dc-ce57ddad7dc1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="exitButton_toolStripMenuItem_Click Method " Url="html/cdfb3f43-7124-5fa5-2cd2-a86b38902b3b.htm" />
+        <HelpTOCNode Title="getProfitPercentage Method " Url="html/a5231a91-13bb-0d6c-ac9f-0676c3bfcd19.htm" />
+        <HelpTOCNode Title="getSelectedAccountInfo Method " Url="html/9f9f5866-bf4f-23f1-18b8-88da0c7659c1.htm" />
+        <HelpTOCNode Title="getSelectedPositionId Method " Url="html/9954c636-a46f-9173-9522-378edb4c7c75.htm" />
+        <HelpTOCNode Title="heldButton_button_Click Method " Url="html/d7118541-36e0-ac3a-185d-c06480fc57ed.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/8747dbc3-c800-53ee-fa72-307e1a8e7acc.htm" />
+        <HelpTOCNode Title="netChange_sold_label_Click Method " Url="html/417c9a54-ad8d-f0a2-b362-22e84a124a86.htm" />
+        <HelpTOCNode Title="newPortfolioButton_ToolStripMenuItem_Click Method " Url="html/564375eb-5a9c-2406-9617-d15ff3936ecf.htm" />
+        <HelpTOCNode Title="newPositionToolStripMenuItem_Click Method " Url="html/9e5753bd-16b7-907b-6367-223715b5e22a.htm" />
+        <HelpTOCNode Title="populateGlobalSummary Method " Url="html/2ed1d5e2-7861-cd6f-75a2-3a98a34fc51f.htm" />
+        <HelpTOCNode Title="populateHeldListView Method " Url="html/e9753ee1-51b8-7224-f823-fdc70955a0bf.htm" />
+        <HelpTOCNode Title="populateSoldListView Method " Url="html/2b1701c2-d4c4-1afa-a110-e591e1fb21e3.htm" />
+        <HelpTOCNode Title="portfolioList_listBox_SelectedValueChanged Method " Url="html/5c720258-4b0c-4268-00ca-52807b65382a.htm" />
+        <HelpTOCNode Title="PortfolioView_FormClosing Method " Url="html/c86ceb62-6cfb-5a18-abee-18c6d0c2f99d.htm" />
+        <HelpTOCNode Title="PortfolioView_Load Method " Url="html/c1711b59-e56e-8773-00cc-88da340926e7.htm" />
+        <HelpTOCNode Title="PortfolioView_Shown Method " Url="html/cd64740f-880e-3c14-dcb3-7cde32f0ec9b.htm" />
+        <HelpTOCNode Title="purchaseNewPosition Method " Url="html/457edc8a-a120-c854-fe06-c37f38a979bf.htm" />
+        <HelpTOCNode Title="RefreshPortfolioView Method " Url="html/f93e7ab7-d356-70f0-72f0-8a932fa1de71.htm" />
+        <HelpTOCNode Title="refreshPrices_toolStripStatusLabel_Click Method " Url="html/1f906c57-194a-2583-d8a7-bc441d7695de.htm" />
+        <HelpTOCNode Title="refreshPrices_toolStripStatusLabel_MouseHover Method " Url="html/a432418d-1029-df0e-1108-9cc9f9640322.htm" />
+        <HelpTOCNode Title="refreshPrices_toolStripStatusLabel_MouseLeave Method " Url="html/ce0f9f66-f79a-21a1-43fa-c8cbfc0b5f8e.htm" />
+        <HelpTOCNode Title="reloadPortfolioListBox Method " Url="html/6f74d8da-ec85-4da8-3d37-9e0cb06545c3.htm" />
+        <HelpTOCNode Title="sellPositionToolStripMenuItem_Click Method " Url="html/e9af8808-0764-2940-97ec-0d0d234e0e4c.htm" />
+        <HelpTOCNode Title="soldButton_button_Click Method " Url="html/be3318cb-793c-6d45-f59b-77675e0294fc.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="PortfolioView Events" Url="html/6d0a70ef-2422-797a-7435-d1b58327ece9.htm" />
+      <HelpTOCNode Id="d23e6b95-990c-478f-8ce8-61271cea93ed" Title="PortfolioView Fields" Url="html/aa59859e-1706-1e9b-deee-5d0f5be7ab10.htm">
+        <HelpTOCNode Title="accountDetails_held_groupBox Field" Url="html/a94fe3f8-f5a6-00c5-cbe3-a889c4d6d3f2.htm" />
+        <HelpTOCNode Title="accountDetails_sold_groupBox Field" Url="html/977b50ea-56b6-87d1-f7c8-2c38ad4d7993.htm" />
+        <HelpTOCNode Title="accountPositionViewHeld_listView Field" Url="html/56e0ff40-cef1-a94b-e518-5d316a7bf74b.htm" />
+        <HelpTOCNode Title="accountPositionViewSold_listView Field" Url="html/20ef36e9-49e1-d2a3-3a10-4fe65b306333.htm" />
+        <HelpTOCNode Title="accounts_label Field" Url="html/38427523-3702-85c8-f331-ada538abe66f.htm" />
+        <HelpTOCNode Title="actionsToolStripMenuItem Field" Url="html/3b464681-e5bf-fb36-cea3-097f5ed8376a.htm" />
+        <HelpTOCNode Title="buyDate_columnHeader Field" Url="html/6fa19360-61f7-86e4-33b2-9a82fb080480.htm" />
+        <HelpTOCNode Title="buyDate_sold_columnHeader Field" Url="html/dbd44257-496b-7a2e-e634-d876bf3bc53d.htm" />
+        <HelpTOCNode Title="buyPrice_column Field" Url="html/5f5d5afc-400f-3dcb-f94f-748069065fae.htm" />
+        <HelpTOCNode Title="buyPrice_sold_columnHeader Field" Url="html/0845464a-986a-f531-1ab0-fe1baed6d579.htm" />
+        <HelpTOCNode Title="components Field" Url="html/016106bf-21ed-03ee-8bbe-65029cdaf7bb.htm" />
+        <HelpTOCNode Title="costBasis_columnHeader Field" Url="html/a033b737-c805-e260-ecd0-8be3edd4a743.htm" />
+        <HelpTOCNode Title="costBasis_label Field" Url="html/0dc99da9-7550-0ca4-22fc-47f659964aff.htm" />
+        <HelpTOCNode Title="costBasis_sold_columnHeader Field" Url="html/d75fbe02-0a2d-2138-4929-9819dc775135.htm" />
+        <HelpTOCNode Title="costBasis_sold_label Field" Url="html/b0602f2f-4013-f00b-d8f3-81db66d46015.htm" />
+        <HelpTOCNode Title="currPrice_columnHeader Field" Url="html/b9b2bb79-08eb-d2b0-457c-d4ceea2951aa.htm" />
+        <HelpTOCNode Title="deletePosition_toolStripMenuItem Field" Url="html/128cee69-c321-05cb-4a31-1c89345d0956.htm" />
+        <HelpTOCNode Title="exitButton_toolStripMenuItem Field" Url="html/d68c3ebd-08ef-fdff-24a2-f81834a8feeb.htm" />
+        <HelpTOCNode Title="fileButton_ToolStripMenuItem Field" Url="html/67516507-749f-0b90-c626-f671517bfa85.htm" />
+        <HelpTOCNode Title="gain_columnHeader Field" Url="html/b75e8545-cb47-6101-1158-8a220e8f870e.htm" />
+        <HelpTOCNode Title="gain_label Field" Url="html/42dd3675-4623-1011-71d2-e8b601526ef0.htm" />
+        <HelpTOCNode Title="gain_sold_columnHeader Field" Url="html/ed9d14eb-8436-89bd-130c-b1b1630b45ce.htm" />
+        <HelpTOCNode Title="heldButton_button Field" Url="html/0406b755-5bc0-2ed9-02cf-a9987f6636d7.htm" />
+        <HelpTOCNode Title="netChange_label Field" Url="html/fd794787-d088-8439-9284-f0c5259b0ba8.htm" />
+        <HelpTOCNode Title="netChange_sold_label Field" Url="html/7d4131c5-3fe5-b8fa-8dfd-c7c0496aae19.htm" />
+        <HelpTOCNode Title="netProfitLoss_label Field" Url="html/c3294e16-f08f-980c-b87c-45a1e9338d6e.htm" />
+        <HelpTOCNode Title="newAccountButton_ToolStripMenuItem Field" Url="html/062fe9f1-713a-fc98-d195-7704aa97fd1e.htm" />
+        <HelpTOCNode Title="newPositionToolStripMenuItem Field" Url="html/f00e9268-eb78-03cf-9b79-6f245f7cb1f8.htm" />
+        <HelpTOCNode Title="percentChange_sold_label Field" Url="html/efeb505c-f35e-5036-6753-333c832df563.htm" />
+        <HelpTOCNode Title="portfolioList_listBox Field" Url="html/33829a75-2de2-6187-4044-41959ff7a1d4.htm" />
+        <HelpTOCNode Title="portfolioViewMenu_menuStrip Field" Url="html/0a604fbf-d3a4-85a1-6ca6-8ee6415832a4.htm" />
+        <HelpTOCNode Title="purchasePositionToolStripMenuItem Field" Url="html/94fba0e3-78e3-cdcf-df37-cba5f9a97214.htm" />
+        <HelpTOCNode Title="quantity_column Field" Url="html/09baa979-2d55-adfa-f908-2b73d35fa017.htm" />
+        <HelpTOCNode Title="quantity_sold_columnHeader Field" Url="html/2e4a1315-6843-cf04-d9c0-597e8465844f.htm" />
+        <HelpTOCNode Title="refreshPrices_toolStripStatusLabel Field" Url="html/1f618786-1008-cd83-ab7c-a124827ccdb6.htm" />
+        <HelpTOCNode Title="sellDate_sold_columnHeader Field" Url="html/55f69045-80ef-f69a-a053-c8523c003e18.htm" />
+        <HelpTOCNode Title="sellPositionToolStripMenuItem Field" Url="html/22455f80-ae0d-9e8f-67cb-dbcd1365cf74.htm" />
+        <HelpTOCNode Title="sellPositionToolStripMenuItem1 Field" Url="html/51787c4e-9972-89ea-2acf-8e9165efd6d3.htm" />
+        <HelpTOCNode Title="sellPrice_sold_columnHeader Field" Url="html/af76baf6-a628-b447-7afb-21bdbd371a4e.htm" />
+        <HelpTOCNode Title="soldButton_button Field" Url="html/2d59f585-1e89-4fc1-0cac-9e54957cfbe2.htm" />
+        <HelpTOCNode Title="soldValue_columnHeader Field" Url="html/b9a616e8-dbb8-1008-49b8-41054bebbca7.htm" />
+        <HelpTOCNode Title="statusStrip1 Field" Url="html/edc96921-dc37-cdaf-d165-fac512887fe1.htm" />
+        <HelpTOCNode Title="symbol_column Field" Url="html/dac3b5d1-7796-45e7-939b-0b353b9d2dc8.htm" />
+        <HelpTOCNode Title="symbol_sold_columnHeader Field" Url="html/6f94289d-bc8e-4b43-3467-b4098661a84a.htm" />
+        <HelpTOCNode Title="toolStripSeparator1 Field" Url="html/62f9e19a-8000-77a1-a0f5-85528f375220.htm" />
+        <HelpTOCNode Title="toolStripSeparator2 Field" Url="html/8e84acb5-6593-a907-9378-72d35c9708f2.htm" />
+        <HelpTOCNode Title="totalStockValue_label Field" Url="html/80d8d677-fe45-7ce1-f7ad-e26201b21f4f.htm" />
+        <HelpTOCNode Title="totalValSold_label Field" Url="html/d9899252-8542-5dc0-57fc-d80947727fa8.htm" />
+        <HelpTOCNode Title="totalValue_columnHeader Field" Url="html/cdf551ce-b1dd-f221-9631-f4b159ce6397.htm" />
+        <HelpTOCNode Title="totalValue_label Field" Url="html/080d666b-c397-4bed-00d7-e70e5cca9db8.htm" />
+        <HelpTOCNode Title="userSummary_groupBox Field" Url="html/2a78fd3f-766a-ab98-9319-d1c512af6f2e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="36b62306-fb69-433d-a56c-00da95bad842" Title="Position Class" Url="html/eae636b0-09b8-8264-3479-df0c2ef8a68d.htm">
+      <HelpTOCNode Id="60dc2c8a-9d75-44c7-bff7-78189e32d6c1" Title="Position Constructor " Url="html/b3f56f58-238e-720d-8643-f3d3cdb54c9e.htm">
+        <HelpTOCNode Title="Position Constructor (PositionBuyParameters)" Url="html/5b8405a9-bb96-2104-9eb4-8980c25ea409.htm" />
+        <HelpTOCNode Title="Position Constructor (PositionInfo)" Url="html/6d2b633f-13c4-dab8-8c30-5c62821f97d0.htm" />
+        <HelpTOCNode Title="Position Constructor (String)" Url="html/6a8c0fc3-e786-d768-f5ce-f60b4193840c.htm" />
+        <HelpTOCNode Title="Position Constructor (Guid, String, Int32, Double, Nullable(DateTime))" Url="html/29a21418-f451-ac49-9d9d-f035263a94d6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d55ee3ca-2850-4f88-9689-6c860a1583a5" Title="Position Properties" Url="html/ab31d898-759f-e343-d61b-1f37c1b89a66.htm">
+        <HelpTOCNode Title="BuyDate Property " Url="html/f1afd3c2-c4ff-1f93-b905-74941dc47395.htm" />
+        <HelpTOCNode Title="BuyPrice Property " Url="html/6afb4c77-744e-7364-c1fa-ac0ceb2347e8.htm" />
+        <HelpTOCNode Title="ID Property " Url="html/1b39de6e-9eb9-34fa-808a-bfc2d3b21d16.htm" />
+        <HelpTOCNode Title="IsSold Property " Url="html/3658aed4-5033-4ab2-246f-5b5d9c9a8bcd.htm" />
+        <HelpTOCNode Title="LastUpdatedPrice Property " Url="html/4e96357e-f4ed-a880-0249-dda612c0c2c2.htm" />
+        <HelpTOCNode Title="Quantity Property " Url="html/b6143505-d664-98c4-363d-82aacc99c92e.htm" />
+        <HelpTOCNode Title="SellDate Property " Url="html/d1cde969-45a9-4eef-f858-594ed8943301.htm" />
+        <HelpTOCNode Title="SellPrice Property " Url="html/c2c2071e-0f8e-1fc8-094b-6372b6b75365.htm" />
+        <HelpTOCNode Title="Symbol Property " Url="html/4143d4e2-b804-5e5c-1f34-f13d2439f84b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="384bc1db-9a04-4f3f-9839-62341f9bf436" Title="Position Methods" Url="html/861606b9-3bb3-5b25-a244-3bb975b7efd5.htm">
+        <HelpTOCNode Title="GetPricePerStock Method " Url="html/901bb109-4905-6e9d-be4b-16daa4a5fce1.htm" />
+        <HelpTOCNode Title="GetTotalValue Method " Url="html/75d02bc9-18a5-b8c6-28d8-cbfde1e32c83.htm" />
+        <HelpTOCNode Title="OLD_SellStocks Method " Url="html/efc004dc-ff1b-5081-c052-6d7a17cb1ac7.htm" />
+        <HelpTOCNode Title="SellFullPosition Method " Url="html/56d1d614-cc32-728a-abc7-1944b1238416.htm" />
+        <HelpTOCNode Title="SellStocks Method " Url="html/381d63f1-3fac-ae8b-9e40-c52326b38bd4.htm" />
+        <HelpTOCNode Id="e8890561-16ab-46c0-b29d-7ed0e88c794e" Title="SetBuyDate Method " Url="html/6ee5d3a6-8e89-723c-05e6-4d0ed64051c5.htm">
+          <HelpTOCNode Title="SetBuyDate Method (DateTime)" Url="html/5e0bcb5f-b49e-474a-0898-29aff7b84047.htm" />
+          <HelpTOCNode Title="SetBuyDate Method (String)" Url="html/e4a648db-bb4e-f518-b06c-d62d66838ab5.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ToString Method " Url="html/d7c48b5b-8aba-6d82-bcd4-2060805d63f5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="52ffd60d-3b2f-45b4-a442-c941c472b550" Title="Position Fields" Url="html/34f29867-f0b9-69ca-1655-87de5b52c8bf.htm">
+        <HelpTOCNode Title="buyDate Field" Url="html/e6f00c1a-65bb-fe3d-359e-ba7d33981c10.htm" />
+        <HelpTOCNode Title="buyPrice Field" Url="html/6e0c30e1-049b-ed28-2fdc-d0c97dac5f16.htm" />
+        <HelpTOCNode Title="NumberOfStocksReachedZero Field" Url="html/631d6115-b8cd-aadb-7b28-cf7b7f2e7907.htm" />
+        <HelpTOCNode Title="quantity Field" Url="html/7b731ccf-3cd9-51ee-212f-997568bdf5ab.htm" />
+        <HelpTOCNode Title="sellDate Field" Url="html/202ca84e-cd67-d045-31bf-23bc1e17af68.htm" />
+        <HelpTOCNode Title="sellPrice Field" Url="html/90bfd687-ceab-246e-051c-a8116ac8b958.htm" />
+        <HelpTOCNode Title="SEP Field" Url="html/a2442069-0a0b-bbbd-81ff-741c763930e7.htm" />
+        <HelpTOCNode Title="symbol Field" Url="html/45d953bf-a26c-c244-1baf-cbf6b8288631.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c73455aa-5d7e-4140-8972-0e614aefab21" Title="PositionBuyParameters Class" Url="html/5256a8bd-435f-5fd0-e95f-f6aab3165658.htm">
+      <HelpTOCNode Title="PositionBuyParameters Constructor " Url="html/364838da-0188-0175-467d-a59fe5f2917f.htm" />
+      <HelpTOCNode Id="af6be543-01df-4f7a-a074-a03800f5b916" Title="PositionBuyParameters Properties" Url="html/a906c049-2647-2c88-62c9-4bba783fcf5e.htm">
+        <HelpTOCNode Title="AccountName Property " Url="html/578ebe65-3cc9-22d9-0929-1a85153a5225.htm" />
+        <HelpTOCNode Title="BuyDate Property " Url="html/7d81d7e8-667a-fdd6-2ce2-84551a5ca816.htm" />
+        <HelpTOCNode Title="BuyPrice Property " Url="html/22f1d19f-961b-043b-ca8a-9b2f8686814b.htm" />
+        <HelpTOCNode Title="Quantity Property " Url="html/f35fcaba-4b97-cdb0-6e69-34fb6a943978.htm" />
+        <HelpTOCNode Title="Symbol Property " Url="html/381ba80c-d6a3-046d-c57b-f100d5b0e0eb.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="PositionBuyParameters Methods" Url="html/135580e5-40f5-a1d9-f962-f03407463cbe.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="9fa1eb10-f4ab-4abc-ab24-f77f25777c68" Title="PositionInfo Class" Url="html/7058b960-68df-967c-3a2c-6dd18980a62d.htm">
+      <HelpTOCNode Id="26cdc82a-2594-4cbf-bc47-fd356a6f0ad3" Title="PositionInfo Constructor " Url="html/c6d99f4c-003b-b1bf-7348-698dafc4d777.htm">
+        <HelpTOCNode Title="PositionInfo Constructor (Position)" Url="html/2f0e393b-2b05-e77e-323e-1a50160e4b7d.htm" />
+        <HelpTOCNode Title="PositionInfo Constructor (PositionBuyParameters)" Url="html/05318da2-cd9f-1f6a-d30d-4e71f98e9d61.htm" />
+        <HelpTOCNode Title="PositionInfo Constructor (String, Int32, Double, DateTime)" Url="html/942db98d-afe0-3de1-4448-61cef4fe6e4c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a56a47f2-9099-4e77-932d-b8f5b514f9cc" Title="PositionInfo Properties" Url="html/b96fe96e-9a48-6079-92f2-ede815e1c472.htm">
+        <HelpTOCNode Title="BuyDate Property " Url="html/918f4093-1807-260d-06d5-a7c24aa5f479.htm" />
+        <HelpTOCNode Title="BuyPrice Property " Url="html/42a4c427-f463-7958-779b-f2a8b8313a1f.htm" />
+        <HelpTOCNode Title="CostBasis Property " Url="html/aab6068a-8b4a-6052-6233-ccd57958e0f8.htm" />
+        <HelpTOCNode Title="CurrentPrice Property " Url="html/ad4fd1d3-1961-1f7f-e4a4-4fc826f534c1.htm" />
+        <HelpTOCNode Title="CurrentValue Property " Url="html/4c176405-e70f-1a17-951d-f5558e0c77d6.htm" />
+        <HelpTOCNode Title="ID Property " Url="html/ea74709f-5662-b42b-a42c-985a7c4dd14c.htm" />
+        <HelpTOCNode Title="Quantity Property " Url="html/fc68c2b6-156c-e654-cbf3-05bedb566be5.htm" />
+        <HelpTOCNode Title="SellDate Property " Url="html/b6ddc443-c9b3-0d6c-51da-8802fb17bf24.htm" />
+        <HelpTOCNode Title="SellPrice Property " Url="html/d340fde0-66af-ab39-abde-bead73c6c27f.htm" />
+        <HelpTOCNode Title="SellValue Property " Url="html/13ff3a3e-dcd9-6268-955f-ed20a8dc9974.htm" />
+        <HelpTOCNode Title="Symbol Property " Url="html/29746ee2-2669-d6a3-2305-283fdfac2989.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="PositionInfo Methods" Url="html/e94b145e-429d-b386-edf4-60dd269fe94d.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="6f828f1a-07af-4157-bf01-ea5532352591" Title="PositionLinkedList Class" Url="html/8128e3fa-917c-5e5f-3622-bf95ac5d71ef.htm">
+      <HelpTOCNode Title="PositionLinkedList Constructor " Url="html/6d9cee2f-ff09-6a9e-7392-86c4e4a381fe.htm" />
+      <HelpTOCNode Id="41c5aa4d-4a72-41a4-93cb-1255c9aea782" Title="PositionLinkedList Methods" Url="html/87f9d29e-4c89-370c-5abf-41443b0aa569.htm">
+        <HelpTOCNode Title="Add Method " Url="html/27467e88-b9ac-c001-c9be-a06601d1620a.htm" />
+        <HelpTOCNode Title="getPosition Method " Url="html/f05bcc96-7c04-bce9-22ae-1b208f503dfb.htm" />
+        <HelpTOCNode Title="GetPosition Method " Url="html/a4364778-146c-f98a-4c77-86226f220269.htm" />
+        <HelpTOCNode Title="remove Method " Url="html/3e36b7d5-8400-b99d-ba05-e6820a5001e6.htm" />
+        <HelpTOCNode Title="Remove Method " Url="html/b0e69801-b1e0-9055-8129-82a3c916dddd.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6dfdb999-c2e6-4477-9b0a-ccf457fe8f2f" Title="PositionLinkedList Fields" Url="html/3451cc0e-71ed-859e-c54c-1d3020726bb1.htm">
+        <HelpTOCNode Title="Head Field" Url="html/1a76c303-a667-895d-2385-7938093ec61d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="205be1f7-e6e4-4703-87ee-aac2d658e9a1" Title="PositionSaleForm Class" Url="html/8bdd3738-fb8c-19a0-4070-6ed689ddbc1a.htm">
+      <HelpTOCNode Title="PositionSaleForm Constructor " Url="html/a93ad6b3-26dc-8ab9-a4bb-f02ab2253af0.htm" />
+      <HelpTOCNode Id="c7e6945b-a036-4f72-b477-041406e1fd08" Title="PositionSaleForm Properties" Url="html/ce339e01-7155-0d82-b874-e021c1b0ec96.htm">
+        <HelpTOCNode Title="NumberToSell Property " Url="html/54be358b-ec55-3b1c-1bd1-d961c2babf04.htm" />
+        <HelpTOCNode Title="SellPrice Property " Url="html/b6ca2e77-691d-f59e-deab-df6c4cc5c341.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="60dd1aa0-ae18-4f0e-826f-4101d0145ced" Title="PositionSaleForm Methods" Url="html/65461956-a811-eab9-1027-6603ee426afd.htm">
+        <HelpTOCNode Title="cancel_button_Click Method " Url="html/e6fca741-8a95-ff59-4fe4-6c8ccae784dc.htm" />
+        <HelpTOCNode Id="982a1d4c-bccd-422e-9e91-c8ea5d5a4a26" Title="Dispose Method " Url="html/192c39d1-32cf-24a6-9da1-11888f076a97.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/5382505b-9abb-3b84-51dc-4d56296672f3.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="getCurrentPrice_button_Click Method " Url="html/a2af4d46-6eda-fe75-0654-48570fa3f5fe.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/2aac22c0-5835-06e2-c549-26adc523cef0.htm" />
+        <HelpTOCNode Title="sell_button_Click Method " Url="html/cd9b39c5-18c0-ae9d-6497-e128c4c285a8.htm" />
+        <HelpTOCNode Title="setupFormDetails Method " Url="html/067871cd-2351-c349-e3a9-60b4c951b20a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="PositionSaleForm Events" Url="html/4a33b443-1e40-4240-16f2-6d0a245e60a4.htm" />
+      <HelpTOCNode Id="a225d0cf-f7b2-4d35-b10b-23924c7b2072" Title="PositionSaleForm Fields" Url="html/a18f0cbd-6b02-1141-a4da-d69f697c3a8c.htm">
+        <HelpTOCNode Title="cancel_button Field" Url="html/74b78938-52c5-994d-fcf7-f0fcf1b222bf.htm" />
+        <HelpTOCNode Title="components Field" Url="html/70e8cc52-9c29-4c0d-8e3c-581ac8406025.htm" />
+        <HelpTOCNode Title="details_groupBox Field" Url="html/36398127-ccdb-b9a5-9f8c-5bcf246ba3a5.htm" />
+        <HelpTOCNode Title="getCurrentPrice_button Field" Url="html/33424f0f-5aa6-646d-1ffb-b2f138441e88.htm" />
+        <HelpTOCNode Title="numberToSell_label Field" Url="html/194093f4-5b96-6364-e97c-d3dbd6630863.htm" />
+        <HelpTOCNode Title="numToSell Field" Url="html/3b28cfe5-84e5-55c3-2d40-87a7bf3fcf4e.htm" />
+        <HelpTOCNode Title="numToSell_textBox Field" Url="html/e6756d36-9ecb-7271-1cba-5b145ad40c9f.htm" />
+        <HelpTOCNode Title="positionInfo Field" Url="html/30b259bb-b123-099e-93ac-f4fcdc50a0d4.htm" />
+        <HelpTOCNode Title="sell_button Field" Url="html/37f41769-aa07-9f3c-0c27-b9e2b296eea1.htm" />
+        <HelpTOCNode Title="sellPosition_label Field" Url="html/2203e5aa-e0ce-4417-ee6e-878112f54105.htm" />
+        <HelpTOCNode Title="sellPrice Field" Url="html/cf65822d-da51-df1a-2061-e6c18eae1abe.htm" />
+        <HelpTOCNode Title="sellPrice_label Field" Url="html/829184f8-c1d5-8f5f-83ed-86a0cef127b4.htm" />
+        <HelpTOCNode Title="sellPrice_textBox Field" Url="html/119f7da8-814d-75a4-dd17-2fb5ec59703b.htm" />
+        <HelpTOCNode Title="StockInformation Field" Url="html/b509a049-142f-9ca5-afd9-6682f275542d.htm" />
+        <HelpTOCNode Title="symbol_label Field" Url="html/4d53bd5e-f6cb-3c4b-0f87-e7bb8b003788.htm" />
+        <HelpTOCNode Title="totalNum_label Field" Url="html/a65e4646-dfe5-9b3a-4aa4-99a2c8752674.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b86c3418-9c03-4e8e-b801-186b2a196f1f" Title="StartupMenuForm Class" Url="html/4370db7e-3048-04c8-0d91-b9683e5cf2c6.htm">
+      <HelpTOCNode Title="StartupMenuForm Constructor " Url="html/bf6c372b-4a0b-8838-affa-9d3136a70b9f.htm" />
+      <HelpTOCNode Title="StartupMenuForm Properties" Url="html/c009af3d-f629-6137-5309-64e66bc25ef6.htm" />
+      <HelpTOCNode Id="60395a38-c164-4483-b9ee-a962558ffd60" Title="StartupMenuForm Methods" Url="html/44fc1f35-18a4-da42-884b-2cd453170b80.htm">
+        <HelpTOCNode Id="55519c81-4f7e-46dd-8664-fad71922b0f5" Title="Dispose Method " Url="html/c23df7f0-4de0-4dc2-5d06-2c2be6026f6f.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/702a7f23-d1e5-8429-e7c3-58504bf6c368.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Form1_FormClosing Method " Url="html/e6772b4e-cf2e-f9c3-4339-35d881d0e787.htm" />
+        <HelpTOCNode Title="Form1_Load Method " Url="html/f36c006d-0eb7-455b-ff8d-0045282aaeb4.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/430eeb23-5586-f78b-f1eb-e6caeda64385.htm" />
+        <HelpTOCNode Title="startNewPortfolio_button_Click Method " Url="html/2118a56c-6046-726c-33dc-d6c40a7d99d4.htm" />
+        <HelpTOCNode Title="viewMyPortfolios_button_Click Method " Url="html/01d8b4e4-7f08-aa18-a9ef-6ef8b0ffbfbe.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="StartupMenuForm Events" Url="html/f5bfdaff-3c0b-ba6f-a1be-d4c9abd78639.htm" />
+      <HelpTOCNode Id="f2f47eb0-e679-4925-bffc-46c4d9007476" Title="StartupMenuForm Fields" Url="html/ab9b30c9-e55f-e6ae-0a0a-d6a3b8ed403e.htm">
+        <HelpTOCNode Title="components Field" Url="html/23c40628-7226-e2d0-ef81-b6eaf48b11a2.htm" />
+        <HelpTOCNode Title="pictureBox Field" Url="html/51666b4b-f928-48b9-a63b-6e8098301157.htm" />
+        <HelpTOCNode Title="viewMyPortfolios_button Field" Url="html/49cc3a5f-f8de-6138-1341-299d6e4a3f44.htm" />
+        <HelpTOCNode Title="welcomMessage_label Field" Url="html/3f145302-0dba-8c05-6455-65d87f9af3cb.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

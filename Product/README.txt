@@ -1,0 +1,1 @@
+This program can only be run on a windows machine. Please note that the program also writes and reads from the user's Documents directory on their desktop. 
